@@ -6,8 +6,8 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 # ====== CONFIG ======
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHANNEL = "@shoppinghubsmart"
-EARNKARO_API = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTc5ZDI1YTA2MjRiMzJhNTc1ZjNhNjIiLCJlYXJua2FybyI6IjI5NjU3NTciLCJpYXQiOjE3Njk1OTMxOTl9.ROdW9fFWeftXZiXJqv42eJhTxB7oKUJGOKKPbtSMJFE"
+CHANNEL = "@YourChannelUsername"
+EARNKARO_API = "YOUR_EARNKARO_API_KEY"
 
 bot = Bot(token=BOT_TOKEN)
 
